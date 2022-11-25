@@ -59,4 +59,4 @@ ___
 
 **数据来源：**
 
-**Schale DB: **https://lonqie.github.io/SchaleDB
+Schale DB:  https://lonqie.github.io/SchaleDB
